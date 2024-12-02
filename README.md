@@ -1,2 +1,2 @@
 🏫 | High School Freshman  
-💻 | Learning Python and Ruby  
+🔍 | Wide variety of programming interests
