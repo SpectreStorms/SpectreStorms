@@ -5,6 +5,12 @@
 <hr>
 <h2>Contact Me</h2>
 🗨️ | Discord: spectre_storms <br>
+<hr>
+<h2>IDEs</h2>
+🐍 | Python: PyCharm. <br>
+💻 | HTML/CSS: Visual Code Studio.
+
+
 
 
 
